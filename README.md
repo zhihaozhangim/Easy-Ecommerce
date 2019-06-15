@@ -27,6 +27,6 @@
 
 ##### More information:
 
-1. [RESTful API](https://github.com/zhihaozhangim/EcommerceForce/tree/master/RESTful API) - includes all business logic except third-party login and payment. To see the API documentation, please import [API Test.postman_collection.json](https://github.com/zhihaozhangim/EcommerceForce/blob/master/RESTful API/API Test.postman_collection.json) into Postman.
-2. [Third-party Login Feature](https://github.com/zhihaozhangim/EcommerceForce/tree/master/Third-party Login Feature) - includes third-party login feature (in order to simplify the authentication model ). To see the API documentation, please import [Third-party login Test.postman_collection.json](https://github.com/zhihaozhangim/EcommerceForce/blob/master/Third-party Login Feature/Third-party login Test.postman_collection.json) into Postman.
-3. [Payment Feature](https://github.com/zhihaozhangim/EcommerceForce/tree/master/Payment Feature) - includes payment feature (in order to simplify the authentication model). To see the API documentation, please import [Payments API Test.postman_collection.json](https://github.com/zhihaozhangim/EcommerceForce/blob/master/Payment Feature/Payments API Test.postman_collection.json) into Postman.
+1. **RESTful API** - includes all business logic except third-party login and payment. To see the API documentation, please import **API Test.postman_collection.json** into Postman.
+2. **Third-party Login Feature** - includes third-party login feature (in order to simplify the authentication model ). To see the API documentation, please import **Third-party login Test.postman_collection.json** into Postman.
+3. **Payment Feature** - includes payment feature (in order to simplify the authentication model). To see the API documentation, please import **Payments API Test.postman_collection.json** into Postman.
